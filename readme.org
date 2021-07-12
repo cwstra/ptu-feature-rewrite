@@ -2,7 +2,7 @@
 * Info
 Each of the files here, other than ~types.ts~, contains the info for a different section of the book, as listed below. (~types.ts~ is just there for sake of getting some basic type checking on all the files, to ensure all of the values have certain fields).
 ** Core Book
-- ~general.ts~
+- [[./general.ts]]
 - ~introductory.ts~
 - ~battling.ts~
 - ~specialist.ts~
