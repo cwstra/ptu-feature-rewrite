@@ -2,21 +2,21 @@
 * Info
 Each of the files here, other than ~types.ts~, contains the info for a different section of the book, as listed below. (~types.ts~ is just there for sake of getting some basic type checking on all the files, to ensure all of the values have certain fields).
 ** Core Book
-*** ~general.ts~
-*** ~introductory.ts~
-*** ~battling.ts~
-*** ~specialist.ts~
-*** ~professional.ts~
-*** ~fighter.ts~
-*** ~supernatural.ts~
+- ~general.ts~
+- ~introductory.ts~
+- ~battling.ts~
+- ~specialist.ts~
+- ~professional.ts~
+- ~fighter.ts~
+- ~supernatural.ts~
 ** Blessed and the Damned
-*** ~batd.ts~
+- ~batd.ts~
 ** Do Porygon Dream of Mareep
-*** ~dpdom.ts~
+- ~dpdom.ts~
 ** Game of Throhs
-*** ~got.ts~
+- ~got.ts~
 ** Playtest Packets
-*** ~playtest.ts~
+- ~playtest.ts~
 * Remaining Work
 ** TODO Make seeAlso fields uniform as to how they look (Most of them should end in list?)
 ** TODO Ensure all 'seeAlso's exist
