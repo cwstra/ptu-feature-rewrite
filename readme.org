@@ -17,7 +17,7 @@ Each of the files here, other than ~types.ts~, contains the info for a different
 *** ~got.ts~
 ** Playtest Packets
 *** ~playtest.ts~
-* Remaining Wor`
+* Remaining Work
 ** TODO Make seeAlso fields uniform as to how they look (Most of them should end in list?)
 ** TODO Ensure all 'seeAlso's exist
 ** TODO Ensure all fields are within the corresponding length requirements
